@@ -1,0 +1,214 @@
+.hero {
+  color: #f5f5f5;
+  width: 100%;
+  height: 100%;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Inter, Arial;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 30px;
+  display: flex;
+}
+
+.hero-image {
+  height: 100%;
+  background-image: url("/src/assets/img/heroImage1.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: stretch;
+  padding-top: 150px;
+  padding-left: 80px;
+  padding-bottom: 100px;
+  display: flex;
+}
+
+.title-is-1-instance-1 {
+  width: 40%;
+  flex-basis: 10%;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.jos-mourinho-brings-confidence-t {
+  align-self: flex-start;
+  margin-bottom: 35px;
+  margin-left: 1px;
+}
+
+.btn-primary-banner {
+  width: 10%;
+  background-color: purple;
+  color: white;
+  border-radius: 40px;
+  height: 45px;  
+}
+
+
+
+
+
+.case-studies {
+  color: #000;
+  width: 100%;
+  height: 100%;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding-top: 7px;
+  font-family: Inter, Arial;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 30px;
+  display: flex;
+}
+
+.flex-container {
+  height: 100%;
+  flex-direction: column;
+  flex-basis: 31%;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: stretch;
+  display: flex;
+}
+
+.flex-container-1 {
+  width: 50%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: stretch;
+  display: flex;
+}
+
+.rectangle-4 {
+  width: 40px;
+  height: 4px;
+  object-fit: cover;
+  align-self: flex-start;
+  margin-top: 3px;
+}
+
+.case-studies-1 {
+  margin-top: -17px;
+  margin-bottom: 17px;
+}
+
+.flex-container-2 {
+  width: 100%;
+  flex-direction: column;
+  flex-basis: 83%;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: stretch;
+  display: flex;
+}
+
+
+.flex-container-4 {
+  width: 100%;
+  flex-direction: column;
+  flex-basis: 83%;
+  justify-content: space-between;
+  align-self: flex-start;
+  
+  margin-left: 500px;
+}
+
+
+.cat-absolute-container {
+  z-index: 1;
+  width: 100%;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: flex-start;
+  align-self: flex-start;
+  align-items: stretch;
+  margin-bottom: -399px;
+  display: flex;
+}
+
+.card-square-1-instance {
+  height: 100%;
+  flex-basis: 100%;
+}
+
+.card-square-instance-1 {
+  width: 100%;
+  flex-basis: 100%;
+}
+
+.card-square-2-instance, .card-square-3-instance {
+  height: 85%;
+  flex-basis: 31%;
+  margin-top: 80px;
+  margin-left: 41px;
+}
+
+
+
+
+.card-square {
+  color: #fff;
+  background-color: #fff;
+  flex-direction: column;
+  font-family: Inter, Arial;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 38px;
+  display: flex;
+}
+
+.card-image {
+  flex-direction: column;
+  row-gap: 10px;
+  display: flex;
+}
+
+.num-1280-x {
+  background-image: url("/src/assets/img/num1280X1.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding-top: 150px;
+  display: flex;
+}
+
+.card-content {
+  height: 45%;
+  background: linear-gradient(90deg, #0000 0%, #000000d9 100%);
+  flex-direction: row;
+  align-self: flex-end;
+  margin-top: 10px;
+  display: flex;
+}
+
+.rectangle {
+  width: 40px;
+  height: 4px;
+  object-fit: cover;
+  margin: 24px -39px 107px 24px;
+}
+
+.card-title {
+  margin-top: 50px;
+  margin-right: -160px;
+  font-size: 20px;
+}
+
+.lorem-ipsum-dolor-sit-amet-conse {
+  margin-top: 120px;
+  margin-left: 25px;
+  margin-right: 62px;
+  font-weight: 400;
+  line-height: 24px;
+}
+

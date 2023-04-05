@@ -1,0 +1,57 @@
+.card-square {
+  color: #fff;
+  background-color: #fff;
+  flex-direction: column;
+  font-family: Inter, Arial;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 38px;
+  display: flex;
+}
+
+.card-image {
+  flex-direction: column;
+  row-gap: 10px;
+  display: flex;
+}
+
+.num-1280-x {
+  background-image: url("/src/assets/img/num1280X1.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding-top: 150px;
+  display: flex;
+}
+
+.card-content {
+  height: 45%;
+  background: linear-gradient(90deg, #0000 0%, #000000d9 100%);
+  flex-direction: row;
+  align-self: flex-end;
+  margin-top: 10px;
+  display: flex;
+}
+
+.rectangle {
+  width: 40px;
+  height: 4px;
+  object-fit: cover;
+  margin: 24px -39px 107px 24px;
+}
+
+.card-title {
+  margin-top: 50px;
+  margin-right: -160px;
+  font-size: 20px;
+}
+
+.lorem-ipsum-dolor-sit-amet-conse {
+  margin-top: 120px;
+  margin-left: 25px;
+  margin-right: 62px;
+  font-weight: 400;
+  line-height: 24px;
+}

@@ -1,0 +1,18 @@
+.title-is {
+  color: #fafafa;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 100px;
+  padding-left: 3px;
+  font-family: Inter, Arial;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 67px;
+  display: flex;
+}
+
+.title-is-1 {
+  align-self: center;
+  margin-top: 2px;
+}
